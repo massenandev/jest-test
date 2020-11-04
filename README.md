@@ -32,6 +32,6 @@ If you need a full report, open your package.json and add --coverage :
   },
   ```
   
-It'll create a new folder called `coverage`. Open it and search for "index.html" ad open it on your browser. It will show which code is not being tested.
+It'll create a new folder called `coverage`. Open it and search for "index.html" and open it on your browser. It will show which code is not being tested.
 
 ## And have fun!
